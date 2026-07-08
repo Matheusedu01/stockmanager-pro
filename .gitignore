@@ -1,0 +1,17 @@
+# JDK baixado por engano pela extensão Oracle Java (não faz parte do projeto)
+/oracleJdk-26/
+
+# Artefato de entrega, não deve ser versionado
+/stockmanager.zip
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+
+# Backend
+backend/api/target/
+
+# SO / editores
+.DS_Store
+.vscode/
+.claude/

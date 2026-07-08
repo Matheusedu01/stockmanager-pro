@@ -1,0 +1,9 @@
+{
+  "short_name": "StockManager Pro",
+  "name": "StockManager Pro - Gerenciamento de produtos",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#f9fafb"
+}
