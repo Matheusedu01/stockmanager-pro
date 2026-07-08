@@ -4,6 +4,9 @@
 
 Aplicação de gerenciamento de produtos (estoque) com autenticação, dashboard e CRUD completo.
 
+**🔗 Demo ao vivo:** [stockmanager-pro.vercel.app](https://stockmanager-pro.vercel.app) — login com `admin@stock.com` / `admin123`
+(backend hospedado na Railway; a primeira requisição pode demorar alguns segundos)
+
 ## Stack
 
 - **Backend**: Java 17, Spring Boot 3.5, Spring Data JPA, Spring Security, MySQL 8

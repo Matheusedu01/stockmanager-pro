@@ -10,6 +10,9 @@
 
 Full-stack inventory management application with authentication, dashboard analytics, and complete CRUD — built with Spring Boot and React.
 
+**🔗 Live demo:** [stockmanager-pro.vercel.app](https://stockmanager-pro.vercel.app) — login with `admin@stock.com` / `admin123`
+(backend hosted on Railway; may take a few seconds to respond on the first request)
+
 ## Screenshots
 
 | Login | Dashboard |
